@@ -1,0 +1,22 @@
+{
+  "career":{
+    "info":"TO work in an MNC."
+  },
+  "education":[
+    {
+      "degree":"ssc",
+      "school":"Chaitanya Bharathi E.m High School",
+      "yearofpass and result":["2013","93%"]
+    },
+    {
+      "degree":"Intermediate",
+      "college":"Sri Siddartha Jr College",
+      "yearofpass and result":["2015","82.4%"]
+    },
+    {
+      "degree":"BTech",
+      "college":"Sree Vidyanikethan Engineering College",
+      "yearofpass and result":["2019","72%"]
+    }
+  ]
+}
