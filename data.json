@@ -4,19 +4,41 @@
   },
   "education":[
     {
-      "degree":"ssc",
+      "degree":"SSC",
       "school":"Chaitanya Bharathi E.m High School",
-      "yearofpass and result":["2013","93%"]
+      "data":["2013","93%"]
     },
     {
       "degree":"Intermediate",
-      "college":"Sri Siddartha Jr College",
-      "yearofpass and result":["2015","82.4%"]
+      "school":"Sri Siddartha Jr College",
+      "data":["2015","82.4%"]
     },
     {
       "degree":"BTech",
-      "college":"Sree Vidyanikethan Engineering College",
-      "yearofpass and result":["2019","72%"]
+      "school":"Sree Vidyanikethan Engineering College",
+      "data":["2019","72%"]
     }
+  ],
+  "skills":[
+    {
+      "name":"Operating System",
+      "info":["Windows","Linux"]
+      },
+      {
+        "name":"Languages",
+        "info":["C","Java","Python"]
+        },
+        {
+        "name":"Databases",
+        "info":["Oracle","MySql"]
+          },
+          {
+            "name":"WebTechnologies",
+            "info":["HTML","javascript","Php","Css"]
+          },
+          {
+            "name":"FrameWorks",
+            "info":["BootStrap",".net"]
+          }
   ]
 }
